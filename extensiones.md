@@ -49,7 +49,7 @@ Las mas de 150 millones de descargas no necesitan mas presentación.
 
 Con el vemos tambien su debuguer, el cual nos va a ayudar a corregir esos programas que carguemos o hagamos.
 
-![](Imagenes/eclipse11.png)
+![](Imagenes/eclipse12.png)
 
 2.- Busca y escribe para qué sirven estos plugins: Checkstyle, Sonar Lint.
 
@@ -71,3 +71,9 @@ Con el vemos tambien su debuguer, el cual nos va a ayudar a corregir esos progra
 
 3.- Instala los plugins y complementos que has encontrado. Además busca e instala los plugins Checkstyle y Sonar Lint.
 
+Debido a que Checkstyle y Sonar Lint son mas propios para un IDE como eclipse y yo estoy utilizando VCode, he decidido instalar otros que me podrán ayudar para entornos de
+desarrollo java o html.
+
+![](Imagenes/eclipse13.png)
+
+![](Imagenes/eclipse14.png)
