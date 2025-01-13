@@ -32,7 +32,7 @@ Con este plugins lo veremos directamente de un vistazo visual sin necesidad de l
 
 Inteligencia artificial aplicada a Visual Code. Muy interesante y utilizada su version gratuita.
 
-![](Imagenes/eclipse9.png)
+![](Imagenes/eclpse9.png)
 
 ### Markdown All in One
 
